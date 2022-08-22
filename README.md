@@ -1,4 +1,4 @@
-
+[![Build Status](https://nkats.visualstudio.com/PartsUnlimited/_apis/build/status/Natalia-Kats.pipelines-java?branchName=main)](https://nkats.visualstudio.com/PartsUnlimited/_build/latest?definitionId=5&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
